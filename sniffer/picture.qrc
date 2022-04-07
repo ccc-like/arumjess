@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/file"/>
+    <qresource prefix="/">
+        <file>end.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>aboutqt.png</file>
+        <file>cybereye.jpg</file>
+        <file>icon.jpg</file>
+    </qresource>
+</RCC>
